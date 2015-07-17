@@ -1,1 +1,2 @@
 export(sem)
+importFrom(stats, sd)
