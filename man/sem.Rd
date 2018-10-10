@@ -24,7 +24,7 @@
   Missing values are discarded.
 }
 
-\author{Karl W Broman, \email{kbroman@jhsph.edu} }
+\author{Karl W Broman, \email{broman@wisc.edu} }
 
 \examples{
 x <- rnorm(100,10,2)

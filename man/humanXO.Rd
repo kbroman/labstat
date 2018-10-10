@@ -4,9 +4,9 @@
 
 \title{Numbers of crossovers in human}
 
-\description{ 
+\description{
   Numbers of crossovers on each chromosome for each meiosis in eight
-  CEPH families.  
+  CEPH families.
 }
 
 \usage{data(humanXO)}
@@ -17,7 +17,7 @@
   identifiers, and whether the row corresponds to the male or female
   meiosis.  The following columns give the number of crossovers on each
   of the 23 chromosomes and then the total number of crossovers,
-  genome-wide. 
+  genome-wide.
 }
 
 %\details{
@@ -29,9 +29,9 @@ J. L. (1998) Comprehensive human genetic maps: Individual and
 sex-specific variation in recombination. \emph{Am J Hum Genet}
 \bold{63}, 861--869. (See Figure 3 and Table 2.)
 }
-  
+
 \source{
-  Karl W Broman, Johns Hopkins University, \email{kbroman@jhsph.edu}
+  Karl W Broman, \email{broman@wisc.edu}
 }
 
 \examples{

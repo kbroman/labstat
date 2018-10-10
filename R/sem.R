@@ -2,7 +2,7 @@
 #
 # util.R
 #
-# copyright (c) 2002, Karl W Broman, Johns Hopkins University
+# copyright (c) 2002, Karl W Broman
 # Licensed under the GNU General Public License version 2 (June, 1991)
 #
 # Utility functions for labstat package

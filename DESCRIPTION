@@ -2,8 +2,8 @@ Package: labstat
 Version: 0.11-4
 Date: 2015-07-17
 Title: Statistics for Lab Scientists
-Author: Karl W Broman <kbroman@biostat.wisc.edu>
-Maintainer: Karl W Broman <kbroman@biostat.wisc.edu>
+Author: Karl W Broman <broman@wisc.edu>
+Maintainer: Karl W Broman <broman@wisc.edu>
 Depends: R (>= 2.10)
 Description: Data and code for a course in statistics for laboratory scientists.
 License: GPL-3

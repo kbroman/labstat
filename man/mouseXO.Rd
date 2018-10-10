@@ -4,7 +4,7 @@
 
 \title{Numbers of crossovers in the mouse}
 
-\description{ 
+\description{
   Numbers of crossovers on each chromosome for each meiotic product from
   two inter-specific mouse backcrosses: (C57BL/6J x \emph{Mus spretus})
   x C57BL/6J and (C57BL/6J x SPRET/EiJ) x SPRET/EiJ.  Note that
@@ -27,9 +27,9 @@
 Broman, K. W., Rowe, L. R., Churchill, G. A. and Paigen, K. (2001)
 Crossover interference in the mouse.  \emph{Genetics}, in press.
 }
-  
+
 \source{
-  Karl W Broman, Johns Hopkins University, \email{kbroman@jhsph.edu}
+  Karl W Broman, \email{broman@wisc.edu}
 }
 
 \examples{
