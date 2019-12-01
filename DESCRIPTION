@@ -2,8 +2,10 @@ Package: labstat
 Version: 0.11-4
 Date: 2015-07-17
 Title: Statistics for Lab Scientists
-Author: Karl W Broman <broman@wisc.edu>
+Author: Karl W Broman [aut, cre] (<https://orcid.org/0000-0002-4914-6671>)
 Maintainer: Karl W Broman <broman@wisc.edu>
+Authors@R: c(person("Karl W", "Broman", role=c("aut", "cre"),
+             email="broman@wisc.edu", comment=c(ORCID = "0000-0002-4914-6671")))
 Depends: R (>= 2.10)
 Description: Data and code for a course in statistics for laboratory scientists.
 License: GPL-3
