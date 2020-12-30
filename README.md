@@ -3,6 +3,6 @@
 To install the package:
 
 ```{R}
-install.packages("devtools")
-devtools:install_github("kbroman/labstat")
+install.packages("remotes")
+remotes:install_github("kbroman/labstat")
 ```
